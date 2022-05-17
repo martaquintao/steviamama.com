@@ -1,2 +1,7 @@
-# steviamama.com
- 
+# Blog
+
+## Publishing
+``` bash
+hugo
+hugo deploy
+```
